@@ -1,8 +1,6 @@
 import pyautogui #permite automatizar o movimento do mouse, teclado e digitação.
 import time
 from time import sleep #permite que a execução seja pausado por alguns segundos.as
-import schedule #usada para agendar a execução de tarefas em horários específicos
-from datetime import datetime
 
 # Clicar na seguinte coordenada usei o "pyautogui.click(000,000)";
 # Para determinar a duração para clicar usei o "duration=0".
